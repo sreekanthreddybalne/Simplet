@@ -1,0 +1,13 @@
+bundle.tar.gz
+.coverage
+.env
+local_settings.py
+apps/market_integrations/tests/test_outputs
+__pycache__/
+apps/shareable_app/pdfs/filled_pdfs
+static/
+venv*
+.vscode
+.idea/
+.DS_Store
+test-profile.speedscope
